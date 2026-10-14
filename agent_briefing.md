@@ -1,7 +1,7 @@
-1. project summary:
-2. project directory:
-3. conda environment under project directory:
-4. reference documents under project directory:
+1. project summary: an android app that run on the android without GMS (google packages). Use oss
+2. project directory: /home/samuel/work/connectbot
+3. conda environment under project directory: env_conda
+4. reference documents under project directory: README.md
 5. write progress of each task in notes/agent_progress.md with title and time. Create it if not existing.
 6. commit to git for task that modify/add/delete source files
 7. create new branch from current if it is another bug or another feature
