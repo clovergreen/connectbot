@@ -1,2 +1,0 @@
-Yksinkertainen ja tehokas avoimen lähdekoodin SSH-asiakasohjelma.
-

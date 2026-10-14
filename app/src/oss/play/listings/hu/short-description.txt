@@ -1,2 +1,0 @@
-Egyszerű, hatékony, nyílt-forráskódú SSH kliens.
-

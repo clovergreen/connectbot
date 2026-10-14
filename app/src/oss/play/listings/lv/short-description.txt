@@ -1,2 +1,0 @@
-Vienkāršs, funkcionāls atvērtā pirmkoda SSH klients.
-

@@ -1,1 +1,0 @@
-Simple, powerful, open-source SSH client for Android

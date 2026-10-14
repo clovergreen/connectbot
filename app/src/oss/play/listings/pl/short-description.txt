@@ -1,2 +1,0 @@
-Prosty, wszechstronny i otwarty klient SSH
-

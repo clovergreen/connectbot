@@ -1,2 +1,0 @@
-Jednostavan, moćan, open-source SSH klijent.
-
