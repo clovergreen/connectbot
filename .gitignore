@@ -30,3 +30,9 @@ build/
 
 # Jenkinsfile-runner
 \.jenkinsfile-runner/
+env_conda
+key.json
+local.key
+notes/
+.build.lock
+run_locked.sh
